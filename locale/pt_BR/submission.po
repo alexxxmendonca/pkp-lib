@@ -1673,7 +1673,7 @@ msgid "submission.query.new"
 msgstr "{$creatorName} iniciou uma discussão: {$noteTitle}: {$noteContents}"
 
 msgid "submission.query.activity.contents"
-msgstr "Não há atividades em \"{$queryTitle}\" sobre a submissão \"{$submissionTitle}\"."
+msgstr "Há uma nova atividade na discussão \"{$queryTitle}\" sobre a submissão \"{$submissionTitle}\"."
 
 msgid "submission.query.new.contents"
 msgstr "Você foi adicionado a uma conversa chamada \"{$queryTitle}\" sobre a submissão  \"{$submissionTitle}\"."
